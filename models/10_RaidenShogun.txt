@@ -1,0 +1,49 @@
+Title
+RVC Voice Conversion Model – Character Index
+
+
+Character Information (Confirmed)
+
+中文名：雷电将军
+英文名（官方）：Raiden Shogun
+日文名：雷電将軍（らいでんしょうぐん）
+游戏：Genshin Impact
+
+
+Model Location
+
+This RVC model is distributed via GitHub Releases.
+Please search for the keyword "raiden" in the Releases section of this repository
+to locate the corresponding model file.
+
+
+Model Description
+
+【中文】
+该模型为基于 RVC（Retrieval-based Voice Conversion）训练的角色变声模型，
+适用于语音变声实验、角色音色测试、二次创作及个人研究用途。
+模型在推理过程中注重还原雷电将军冷静、沉稳且富有威严感的音色特征，
+并在稳定性与清晰度方面保持良好表现。
+建议在标准 RVC 推理环境中使用。
+
+【日本語】
+本モデルは RVC（Retrieval-based Voice Conversion）を用いて学習された音声変換モデルです。
+雷電将軍特有の落ち着きと威厳を感じさせる音色を重視してトレーニングされており、
+音声変換の検証、二次創作、個人研究用途に適しています。
+標準的な RVC 推論環境での使用を推奨します。
+
+【English】
+This is an RVC (Retrieval-based Voice Conversion) voice model trained for Raiden Shogun.
+It is intended for voice conversion experiments, character voice testing,
+fan creations, and personal research purposes.
+The model focuses on preserving Raiden Shogun’s calm, composed,
+and authoritative vocal characteristics while maintaining stable
+and clean inference performance.
+Use within a standard RVC inference pipeline is recommended.
+
+
+Disclaimer
+
+This model is for educational, research, and non-commercial use only.
+All character and original voice rights belong to HoYoverse.
+Commercial use or any infringing usage is strictly prohibited.
